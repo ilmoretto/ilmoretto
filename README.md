@@ -39,7 +39,17 @@
 </p>
 
 ---
+<h2 align="center"></h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
@@ -58,13 +68,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">Pac-Man Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilmoretto/ilmoretto/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
